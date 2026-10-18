@@ -18,6 +18,7 @@ Then Market → Discover → search **Page Structure** or **Local Memory** → I
 ## Files
 
 - `source.json` — catalog source manifest
-- `v1/plugins.json` — catalog page
+- `v1/plugins` — catalog page (the endpoint must end with `/v1/plugins`)
+- `v1/plugins.json` — same page with a `.json` suffix for direct inspection
 
 Both packages are published on npm with `dsh.bundle.patch`.

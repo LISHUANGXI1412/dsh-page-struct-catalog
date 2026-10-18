@@ -8,7 +8,7 @@
   },
   "transport": {
     "kind": "https-json",
-    "endpoint": "https://lishuangxi1412.github.io/dsh-page-struct-catalog/v1/plugins.json",
+    "endpoint": "https://lishuangxi1412.github.io/dsh-page-struct-catalog/v1/plugins",
     "method": "GET"
   },
   "query": {
