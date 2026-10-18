@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.0.0",
+  "items": [
+    {
+      "id": "dsh-page-struct",
+      "name": "dsh-page-struct",
+      "displayName": "Page Structure",
+      "summary": "Read-only page structure for DSH, attached to the CUA browser: table coordinates, shadow DOM fields, code blocks, and confidence labels.",
+      "categories": ["data"],
+      "package": {
+        "registry": "npm",
+        "name": "dsh-page-struct"
+      }
+    }
+  ],
+  "page": {}
+}

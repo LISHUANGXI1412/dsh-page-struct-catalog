@@ -1,0 +1,20 @@
+{
+  "manifestVersion": "1.0.0",
+  "providerId": "io.github.lishuangxi1412.dsh-page-struct",
+  "name": "Page Structure Catalog",
+  "attribution": {
+    "name": "LISHUANGXI1412",
+    "url": "https://github.com/LISHUANGXI1412/dsh-page-struct-catalog"
+  },
+  "transport": {
+    "kind": "https-json",
+    "endpoint": "https://lishuangxi1412.github.io/dsh-page-struct-catalog/v1/plugins.json",
+    "method": "GET"
+  },
+  "query": {
+    "supported": ["q", "category", "cursor", "limit"],
+    "defaultLimit": 50,
+    "maxLimit": 50,
+    "sorts": []
+  }
+}
