@@ -11,6 +11,17 @@
         "registry": "npm",
         "name": "dsh-page-struct"
       }
+    },
+    {
+      "id": "dsh-memory-local",
+      "name": "dsh-memory-local",
+      "displayName": "Local Memory",
+      "summary": "Local-only cross-session memory for DSH with remember/recall/forget tools, system-prompt injection, and a Settings page for project and global memories.",
+      "categories": ["memory"],
+      "package": {
+        "registry": "npm",
+        "name": "dsh-memory-local"
+      }
     }
   ],
   "page": {}
